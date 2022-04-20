@@ -34,8 +34,7 @@
 
 JVM이 하는 역할이 무엇인가요
 
-JVM이란 Java Virtual Machine 의 줄임말로, Java Byte Code 를 
-운영체제에 맞게 해석해주는 역할을 합니다.
+JVM은 Java Byte Code 를 운영체제에 맞게 해석해주는 역할을 합니다.
 또한 가비지 컬렉터를 통해 메모리 관리도 담당하고 있습니다.
 
 ```<중요성>
